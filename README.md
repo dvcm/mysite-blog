@@ -1,6 +1,7 @@
 # mysite-blog
 
-esta faltando algo neste script!
+Salve para quem chegou ate aqui,
+esta faltando algo neste script, que faça essa pagina aparecer!
 
 a pagina http://127.0.0.1:8000/home/
 
